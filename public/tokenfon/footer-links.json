@@ -4,19 +4,19 @@
         "links": [
             {
                 "text": "Faucet",
-                "url": "https://testnet-faucet.tokenfon.dev"
+                "url": "https://tokenfon-faucet.cerratech.app"
             },
             {
                 "text": "MultiSig",
-                "url": "https://testnet-multisig.tokenfon.dev"
+                "url": "https://tokenfon-multisig.cerratech.app"
             },
             {
                 "text": "DEX",
-                "url": "https://testnet-dex.tokenfon.dev"
+                "url": "https://tokenfon-dex.cerratech.app"
             },
             {
                 "text": "Pools",
-                "url": "https://testnet-pools.tokenfon.dev"
+                "url": "https://tokenfon-pools.cerratech.app"
             }
         ]
     },
